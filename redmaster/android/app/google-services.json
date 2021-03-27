@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "708227476224",
+    "firebase_url": "https://red-master-977fe.firebaseio.com",
+    "project_id": "red-master-977fe",
+    "storage_bucket": "red-master-977fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708227476224:android:3ad193779ec84b482961e5",
+        "android_client_info": {
+          "package_name": "com.example.redmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708227476224-3jk4bgmt3ed0qlq4ct44am7fqua6jqrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDPdFGq9fHtpXGGZZgAa69PlloYCUq7zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708227476224-3jk4bgmt3ed0qlq4ct44am7fqua6jqrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
